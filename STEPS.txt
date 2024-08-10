@@ -1,0 +1,15 @@
+how it will work:
+
+features:
+- add contact, name first and last
+- add phone number
+- add email address
+- add nickname
+- list of all names
+- 
+access contacts:
+
+how do to so:
+disp list of contact names
+choose a name
+disp that contact
